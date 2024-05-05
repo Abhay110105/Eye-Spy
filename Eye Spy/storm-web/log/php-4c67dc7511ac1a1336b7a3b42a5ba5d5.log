@@ -1,0 +1,334 @@
+[Sun May  5 05:35:15 2024] PHP 8.2.12 Development Server (http://localhost:2525) started
+[Sun May  5 05:35:15 2024] [::1]:33078 Accepted
+[Sun May  5 05:35:15 2024] [::1]:33078 [200]: POST /receiver.php
+[Sun May  5 05:35:15 2024] [::1]:33078 Closing
+[Sun May  5 05:35:17 2024] [::1]:33082 Accepted
+[Sun May  5 05:35:17 2024] [::1]:33082 [200]: POST /receiver.php
+[Sun May  5 05:35:17 2024] [::1]:33082 Closing
+[Sun May  5 05:35:19 2024] [::1]:33090 Accepted
+[Sun May  5 05:35:19 2024] [::1]:33090 [200]: POST /receiver.php
+[Sun May  5 05:35:19 2024] [::1]:33090 Closing
+[Sun May  5 05:35:20 2024] [::1]:33100 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33100 [200]: GET /panel.php
+[Sun May  5 05:35:20 2024] [::1]:33100 Closing
+[Sun May  5 05:35:20 2024] [::1]:33104 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33104 [200]: GET /assets/js/jquery.min.js
+[Sun May  5 05:35:20 2024] [::1]:33104 Closing
+[Sun May  5 05:35:20 2024] [::1]:33116 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33118 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33116 [200]: GET /assets/js/script.js
+[Sun May  5 05:35:20 2024] [::1]:33130 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33118 [200]: GET /assets/js/sweetalert2.min.js
+[Sun May  5 05:35:20 2024] [::1]:33134 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33130 [200]: GET /assets/js/growl-notification.min.js
+[Sun May  5 05:35:20 2024] [::1]:33142 Accepted
+[Sun May  5 05:35:20 2024] [::1]:33116 Closing
+[Sun May  5 05:35:20 2024] [::1]:33134 [200]: GET /assets/css/bootstrap.min.css
+[Sun May  5 05:35:20 2024] [::1]:33118 Closing
+[Sun May  5 05:35:20 2024] [::1]:33142 [200]: GET /assets/css/light-theme.min.css
+[Sun May  5 05:35:20 2024] [::1]:33130 Closing
+[Sun May  5 05:35:20 2024] [::1]:33134 Closing
+[Sun May  5 05:35:20 2024] [::1]:33142 Closing
+[Sun May  5 05:35:21 2024] [::1]:33144 Accepted
+[Sun May  5 05:35:21 2024] [::1]:33144 [200]: POST /list_templates.php
+[Sun May  5 05:35:21 2024] [::1]:33144 Closing
+[Sun May  5 05:35:21 2024] [::1]:33154 Accepted
+[Sun May  5 05:35:21 2024] [::1]:33154 [200]: GET /Settings.json
+[Sun May  5 05:35:21 2024] [::1]:33154 Closing
+[Sun May  5 05:35:24 2024] [::1]:56196 Accepted
+[Sun May  5 05:35:24 2024] [::1]:56196 [200]: POST /receiver.php
+[Sun May  5 05:35:24 2024] [::1]:56196 Closing
+[Sun May  5 05:35:26 2024] [::1]:56200 Accepted
+[Sun May  5 05:35:26 2024] [::1]:56200 [200]: POST /receiver.php
+[Sun May  5 05:35:26 2024] [::1]:56200 Closing
+[Sun May  5 05:35:28 2024] [::1]:56204 Accepted
+[Sun May  5 05:35:28 2024] [::1]:56204 [200]: POST /receiver.php
+[Sun May  5 05:35:28 2024] [::1]:56204 Closing
+[Sun May  5 05:35:30 2024] [::1]:56216 Accepted
+[Sun May  5 05:35:30 2024] [::1]:56216 [200]: POST /receiver.php
+[Sun May  5 05:35:30 2024] [::1]:56216 Closing
+[Sun May  5 05:35:32 2024] [::1]:56218 Accepted
+[Sun May  5 05:35:32 2024] [::1]:56218 [200]: POST /receiver.php
+[Sun May  5 05:35:32 2024] [::1]:56218 Closing
+[Sun May  5 05:35:34 2024] [::1]:34984 Accepted
+[Sun May  5 05:35:34 2024] [::1]:34984 [200]: POST /receiver.php
+[Sun May  5 05:35:34 2024] [::1]:34984 Closing
+[Sun May  5 05:35:36 2024] [::1]:34998 Accepted
+[Sun May  5 05:35:36 2024] [::1]:34998 [200]: POST /receiver.php
+[Sun May  5 05:35:36 2024] [::1]:34998 Closing
+[Sun May  5 05:35:38 2024] [::1]:35002 Accepted
+[Sun May  5 05:35:38 2024] [::1]:35002 [200]: POST /receiver.php
+[Sun May  5 05:35:38 2024] [::1]:35002 Closing
+[Sun May  5 05:35:40 2024] [::1]:35008 Accepted
+[Sun May  5 05:35:40 2024] [::1]:35008 [200]: POST /receiver.php
+[Sun May  5 05:35:40 2024] [::1]:35008 Closing
+[Sun May  5 05:35:42 2024] [::1]:35024 Accepted
+[Sun May  5 05:35:42 2024] [::1]:35024 [200]: POST /receiver.php
+[Sun May  5 05:35:42 2024] [::1]:35024 Closing
+[Sun May  5 05:35:44 2024] [::1]:52908 Accepted
+[Sun May  5 05:35:44 2024] [::1]:52908 [200]: POST /receiver.php
+[Sun May  5 05:35:44 2024] [::1]:52908 Closing
+[Sun May  5 05:35:46 2024] [::1]:52922 Accepted
+[Sun May  5 05:35:46 2024] [::1]:52922 [200]: POST /receiver.php
+[Sun May  5 05:35:46 2024] [::1]:52922 Closing
+[Sun May  5 05:35:48 2024] [::1]:52934 Accepted
+[Sun May  5 05:35:48 2024] [::1]:52934 [200]: POST /receiver.php
+[Sun May  5 05:35:48 2024] [::1]:52934 Closing
+[Sun May  5 05:35:52 2024] [::1]:52944 Accepted
+[Sun May  5 05:35:52 2024] [::1]:52944 [200]: GET /panel.php
+[Sun May  5 05:35:52 2024] [::1]:52944 Closing
+[Sun May  5 05:35:52 2024] [::1]:52960 Accepted
+[Sun May  5 05:35:52 2024] [::1]:52960 [200]: GET /Settings.json
+[Sun May  5 05:35:52 2024] [::1]:52960 Closing
+[Sun May  5 05:35:52 2024] [::1]:52970 Accepted
+[Sun May  5 05:35:52 2024] [::1]:52970 [200]: POST /list_templates.php
+[Sun May  5 05:35:52 2024] [::1]:52970 Closing
+[Sun May  5 05:35:55 2024] [::1]:45472 Accepted
+[Sun May  5 05:35:55 2024] [::1]:45472 [200]: POST /receiver.php
+[Sun May  5 05:35:55 2024] [::1]:45472 Closing
+[Sun May  5 05:35:57 2024] [::1]:45476 Accepted
+[Sun May  5 05:35:57 2024] [::1]:45476 [200]: POST /receiver.php
+[Sun May  5 05:35:57 2024] [::1]:45476 Closing
+[Sun May  5 05:35:59 2024] [::1]:45478 Accepted
+[Sun May  5 05:35:59 2024] [::1]:45478 [200]: POST /receiver.php
+[Sun May  5 05:35:59 2024] [::1]:45478 Closing
+[Sun May  5 05:36:01 2024] [::1]:45482 Accepted
+[Sun May  5 05:36:01 2024] [::1]:45482 [200]: POST /receiver.php
+[Sun May  5 05:36:01 2024] [::1]:45482 Closing
+[Sun May  5 05:36:03 2024] [::1]:54096 Accepted
+[Sun May  5 05:36:03 2024] [::1]:54096 [200]: POST /receiver.php
+[Sun May  5 05:36:03 2024] [::1]:54096 Closing
+[Sun May  5 05:36:05 2024] [::1]:54112 Accepted
+[Sun May  5 05:36:05 2024] [::1]:54112 [200]: POST /receiver.php
+[Sun May  5 05:36:05 2024] [::1]:54112 Closing
+[Sun May  5 05:36:07 2024] [::1]:54126 Accepted
+[Sun May  5 05:36:07 2024] [::1]:54126 [200]: POST /receiver.php
+[Sun May  5 05:36:07 2024] [::1]:54126 Closing
+[Sun May  5 05:36:09 2024] [::1]:54136 Accepted
+[Sun May  5 05:36:09 2024] [::1]:54136 [200]: POST /receiver.php
+[Sun May  5 05:36:09 2024] [::1]:54136 Closing
+[Sun May  5 05:36:11 2024] [::1]:54150 Accepted
+[Sun May  5 05:36:11 2024] [::1]:54150 [200]: POST /receiver.php
+[Sun May  5 05:36:11 2024] [::1]:54150 Closing
+[Sun May  5 05:36:13 2024] [::1]:34504 Accepted
+[Sun May  5 05:36:13 2024] [::1]:34504 [200]: POST /receiver.php
+[Sun May  5 05:36:13 2024] [::1]:34504 Closing
+[Sun May  5 05:36:15 2024] [::1]:34512 Accepted
+[Sun May  5 05:36:15 2024] [::1]:34512 [200]: POST /receiver.php
+[Sun May  5 05:36:15 2024] [::1]:34512 Closing
+[Sun May  5 05:36:17 2024] [::1]:34514 Accepted
+[Sun May  5 05:36:17 2024] [::1]:34514 [200]: POST /receiver.php
+[Sun May  5 05:36:17 2024] [::1]:34514 Closing
+[Sun May  5 05:36:19 2024] [::1]:34524 Accepted
+[Sun May  5 05:36:19 2024] [::1]:34524 [200]: POST /receiver.php
+[Sun May  5 05:36:19 2024] [::1]:34524 Closing
+[Sun May  5 05:36:21 2024] [::1]:34540 Accepted
+[Sun May  5 05:36:21 2024] [::1]:34540 [200]: POST /receiver.php
+[Sun May  5 05:36:21 2024] [::1]:34540 Closing
+[Sun May  5 05:36:23 2024] [::1]:35310 Accepted
+[Sun May  5 05:36:23 2024] [::1]:35310 [200]: POST /receiver.php
+[Sun May  5 05:36:23 2024] [::1]:35310 Closing
+[Sun May  5 05:36:25 2024] [::1]:35322 Accepted
+[Sun May  5 05:36:25 2024] [::1]:35322 [200]: POST /receiver.php
+[Sun May  5 05:36:25 2024] [::1]:35322 Closing
+[Sun May  5 05:36:27 2024] [::1]:35326 Accepted
+[Sun May  5 05:36:27 2024] [::1]:35326 [200]: POST /receiver.php
+[Sun May  5 05:36:27 2024] [::1]:35326 Closing
+[Sun May  5 05:36:29 2024] [::1]:35330 Accepted
+[Sun May  5 05:36:29 2024] [::1]:35330 [200]: POST /receiver.php
+[Sun May  5 05:36:29 2024] [::1]:35330 Closing
+[Sun May  5 05:36:31 2024] [::1]:35340 Accepted
+[Sun May  5 05:36:31 2024] [::1]:35340 [200]: POST /receiver.php
+[Sun May  5 05:36:31 2024] [::1]:35340 Closing
+[Sun May  5 05:36:33 2024] [::1]:36502 Accepted
+[Sun May  5 05:36:33 2024] [::1]:36502 [200]: POST /receiver.php
+[Sun May  5 05:36:33 2024] [::1]:36502 Closing
+[Sun May  5 05:36:35 2024] [::1]:36510 Accepted
+[Sun May  5 05:36:35 2024] [::1]:36510 [200]: POST /receiver.php
+[Sun May  5 05:36:35 2024] [::1]:36510 Closing
+[Sun May  5 05:36:37 2024] [::1]:36524 Accepted
+[Sun May  5 05:36:37 2024] [::1]:36524 [200]: POST /receiver.php
+[Sun May  5 05:36:37 2024] [::1]:36524 Closing
+[Sun May  5 05:36:39 2024] [::1]:36534 Accepted
+[Sun May  5 05:36:39 2024] [::1]:36534 [200]: POST /receiver.php
+[Sun May  5 05:36:39 2024] [::1]:36534 Closing
+[Sun May  5 05:36:41 2024] [::1]:36550 Accepted
+[Sun May  5 05:36:41 2024] [::1]:36550 [200]: POST /receiver.php
+[Sun May  5 05:36:41 2024] [::1]:36550 Closing
+[Sun May  5 05:36:43 2024] [::1]:52328 Accepted
+[Sun May  5 05:36:43 2024] [::1]:52328 [200]: POST /receiver.php
+[Sun May  5 05:36:43 2024] [::1]:52328 Closing
+[Sun May  5 05:36:45 2024] [::1]:52330 Accepted
+[Sun May  5 05:36:45 2024] [::1]:52330 [200]: POST /receiver.php
+[Sun May  5 05:36:45 2024] [::1]:52330 Closing
+[Sun May  5 05:36:47 2024] [::1]:52346 Accepted
+[Sun May  5 05:36:47 2024] [::1]:52346 [200]: POST /receiver.php
+[Sun May  5 05:36:47 2024] [::1]:52346 Closing
+[Sun May  5 05:36:49 2024] [::1]:52348 Accepted
+[Sun May  5 05:36:49 2024] [::1]:52348 [200]: POST /receiver.php
+[Sun May  5 05:36:49 2024] [::1]:52348 Closing
+[Sun May  5 05:36:51 2024] [::1]:52362 Accepted
+[Sun May  5 05:36:51 2024] [::1]:52362 [200]: POST /receiver.php
+[Sun May  5 05:36:51 2024] [::1]:52362 Closing
+[Sun May  5 05:36:53 2024] [::1]:39276 Accepted
+[Sun May  5 05:36:53 2024] [::1]:39276 [200]: POST /receiver.php
+[Sun May  5 05:36:53 2024] [::1]:39276 Closing
+[Sun May  5 05:36:55 2024] [::1]:39284 Accepted
+[Sun May  5 05:36:55 2024] [::1]:39284 [200]: POST /receiver.php
+[Sun May  5 05:36:55 2024] [::1]:39284 Closing
+[Sun May  5 05:36:57 2024] [::1]:39298 Accepted
+[Sun May  5 05:36:57 2024] [::1]:39298 [200]: POST /receiver.php
+[Sun May  5 05:36:57 2024] [::1]:39298 Closing
+[Sun May  5 05:36:59 2024] [::1]:39302 Accepted
+[Sun May  5 05:36:59 2024] [::1]:39302 [200]: POST /receiver.php
+[Sun May  5 05:36:59 2024] [::1]:39302 Closing
+[Sun May  5 05:37:01 2024] [::1]:39306 Accepted
+[Sun May  5 05:37:01 2024] [::1]:39306 [200]: POST /receiver.php
+[Sun May  5 05:37:01 2024] [::1]:39306 Closing
+[Sun May  5 05:37:03 2024] [::1]:42962 Accepted
+[Sun May  5 05:37:03 2024] [::1]:42962 [200]: POST /receiver.php
+[Sun May  5 05:37:03 2024] [::1]:42962 Closing
+[Sun May  5 05:37:05 2024] [::1]:42976 Accepted
+[Sun May  5 05:37:05 2024] [::1]:42976 [200]: POST /receiver.php
+[Sun May  5 05:37:05 2024] [::1]:42976 Closing
+[Sun May  5 05:37:07 2024] [::1]:42992 Accepted
+[Sun May  5 05:37:07 2024] [::1]:42992 [200]: POST /receiver.php
+[Sun May  5 05:37:07 2024] [::1]:42992 Closing
+[Sun May  5 05:37:09 2024] [::1]:42996 Accepted
+[Sun May  5 05:37:09 2024] [::1]:42996 [200]: POST /receiver.php
+[Sun May  5 05:37:09 2024] [::1]:42996 Closing
+[Sun May  5 05:37:11 2024] [::1]:42998 Accepted
+[Sun May  5 05:37:11 2024] [::1]:42998 [200]: POST /receiver.php
+[Sun May  5 05:37:11 2024] [::1]:42998 Closing
+[Sun May  5 05:37:13 2024] [::1]:43170 Accepted
+[Sun May  5 05:37:13 2024] [::1]:43170 [200]: POST /receiver.php
+[Sun May  5 05:37:13 2024] [::1]:43170 Closing
+[Sun May  5 05:37:15 2024] [::1]:43184 Accepted
+[Sun May  5 05:37:15 2024] [::1]:43184 [200]: POST /receiver.php
+[Sun May  5 05:37:15 2024] [::1]:43184 Closing
+[Sun May  5 05:37:17 2024] [::1]:43192 Accepted
+[Sun May  5 05:37:17 2024] [::1]:43192 [200]: POST /receiver.php
+[Sun May  5 05:37:17 2024] [::1]:43192 Closing
+[Sun May  5 05:37:19 2024] [::1]:43202 Accepted
+[Sun May  5 05:37:19 2024] [::1]:43202 [200]: POST /receiver.php
+[Sun May  5 05:37:19 2024] [::1]:43202 Closing
+[Sun May  5 05:37:21 2024] [::1]:43208 Accepted
+[Sun May  5 05:37:21 2024] [::1]:43208 [200]: POST /receiver.php
+[Sun May  5 05:37:21 2024] [::1]:43208 Closing
+[Sun May  5 05:37:23 2024] [::1]:38344 Accepted
+[Sun May  5 05:37:23 2024] [::1]:38344 [200]: POST /receiver.php
+[Sun May  5 05:37:23 2024] [::1]:38344 Closing
+[Sun May  5 05:37:25 2024] [::1]:38356 Accepted
+[Sun May  5 05:37:25 2024] [::1]:38356 [200]: POST /receiver.php
+[Sun May  5 05:37:25 2024] [::1]:38356 Closing
+[Sun May  5 05:37:27 2024] [::1]:38360 Accepted
+[Sun May  5 05:37:27 2024] [::1]:38360 [200]: POST /receiver.php
+[Sun May  5 05:37:27 2024] [::1]:38360 Closing
+[Sun May  5 05:37:29 2024] [::1]:38364 Accepted
+[Sun May  5 05:37:29 2024] [::1]:38364 [200]: POST /receiver.php
+[Sun May  5 05:37:29 2024] [::1]:38364 Closing
+[Sun May  5 05:37:31 2024] [::1]:38380 Accepted
+[Sun May  5 05:37:31 2024] [::1]:38380 [200]: POST /receiver.php
+[Sun May  5 05:37:31 2024] [::1]:38380 Closing
+[Sun May  5 05:37:33 2024] [::1]:43682 Accepted
+[Sun May  5 05:37:33 2024] [::1]:43682 [200]: POST /receiver.php
+[Sun May  5 05:37:33 2024] [::1]:43682 Closing
+[Sun May  5 05:37:35 2024] [::1]:43696 Accepted
+[Sun May  5 05:37:35 2024] [::1]:43696 [200]: POST /receiver.php
+[Sun May  5 05:37:35 2024] [::1]:43696 Closing
+[Sun May  5 05:37:37 2024] [::1]:43698 Accepted
+[Sun May  5 05:37:37 2024] [::1]:43698 [200]: POST /receiver.php
+[Sun May  5 05:37:37 2024] [::1]:43698 Closing
+[Sun May  5 05:37:39 2024] [::1]:43706 Accepted
+[Sun May  5 05:37:39 2024] [::1]:43706 [200]: POST /receiver.php
+[Sun May  5 05:37:39 2024] [::1]:43706 Closing
+[Sun May  5 05:37:41 2024] [::1]:43710 Accepted
+[Sun May  5 05:37:41 2024] [::1]:43710 [200]: POST /receiver.php
+[Sun May  5 05:37:41 2024] [::1]:43710 Closing
+[Sun May  5 05:37:43 2024] [::1]:57748 Accepted
+[Sun May  5 05:37:43 2024] [::1]:57748 [200]: POST /receiver.php
+[Sun May  5 05:37:43 2024] [::1]:57748 Closing
+[Sun May  5 05:37:45 2024] [::1]:57764 Accepted
+[Sun May  5 05:37:45 2024] [::1]:57764 [200]: POST /receiver.php
+[Sun May  5 05:37:45 2024] [::1]:57764 Closing
+[Sun May  5 05:37:47 2024] [::1]:57766 Accepted
+[Sun May  5 05:37:47 2024] [::1]:57766 [200]: POST /receiver.php
+[Sun May  5 05:37:47 2024] [::1]:57766 Closing
+[Sun May  5 05:37:49 2024] [::1]:57770 Accepted
+[Sun May  5 05:37:49 2024] [::1]:57770 [200]: POST /receiver.php
+[Sun May  5 05:37:49 2024] [::1]:57770 Closing
+[Sun May  5 05:37:51 2024] [::1]:57786 Accepted
+[Sun May  5 05:37:51 2024] [::1]:57786 [200]: POST /receiver.php
+[Sun May  5 05:37:51 2024] [::1]:57786 Closing
+[Sun May  5 05:37:53 2024] [::1]:58620 Accepted
+[Sun May  5 05:37:53 2024] [::1]:58620 [200]: POST /receiver.php
+[Sun May  5 05:37:53 2024] [::1]:58620 Closing
+[Sun May  5 05:37:55 2024] [::1]:58622 Accepted
+[Sun May  5 05:37:55 2024] [::1]:58622 [200]: POST /receiver.php
+[Sun May  5 05:37:55 2024] [::1]:58622 Closing
+[Sun May  5 05:37:57 2024] [::1]:58624 Accepted
+[Sun May  5 05:37:57 2024] [::1]:58624 [200]: POST /receiver.php
+[Sun May  5 05:37:57 2024] [::1]:58624 Closing
+[Sun May  5 05:37:59 2024] [::1]:58640 Accepted
+[Sun May  5 05:37:59 2024] [::1]:58640 [200]: POST /receiver.php
+[Sun May  5 05:37:59 2024] [::1]:58640 Closing
+[Sun May  5 05:38:01 2024] [::1]:58644 Accepted
+[Sun May  5 05:38:01 2024] [::1]:58644 [200]: POST /receiver.php
+[Sun May  5 05:38:01 2024] [::1]:58644 Closing
+[Sun May  5 05:38:03 2024] [::1]:33388 Accepted
+[Sun May  5 05:38:03 2024] [::1]:33388 [200]: POST /receiver.php
+[Sun May  5 05:38:03 2024] [::1]:33388 Closing
+[Sun May  5 05:38:05 2024] [::1]:33392 Accepted
+[Sun May  5 05:38:05 2024] [::1]:33392 [200]: POST /receiver.php
+[Sun May  5 05:38:05 2024] [::1]:33392 Closing
+[Sun May  5 05:38:07 2024] [::1]:33394 Accepted
+[Sun May  5 05:38:07 2024] [::1]:33394 [200]: POST /receiver.php
+[Sun May  5 05:38:07 2024] [::1]:33394 Closing
+[Sun May  5 05:38:09 2024] [::1]:33408 Accepted
+[Sun May  5 05:38:09 2024] [::1]:33408 [200]: POST /receiver.php
+[Sun May  5 05:38:09 2024] [::1]:33408 Closing
+[Sun May  5 05:38:11 2024] [::1]:33420 Accepted
+[Sun May  5 05:38:11 2024] [::1]:33420 [200]: POST /receiver.php
+[Sun May  5 05:38:11 2024] [::1]:33420 Closing
+[Sun May  5 05:38:13 2024] [::1]:39506 Accepted
+[Sun May  5 05:38:13 2024] [::1]:39506 [200]: POST /receiver.php
+[Sun May  5 05:38:13 2024] [::1]:39506 Closing
+[Sun May  5 05:38:15 2024] [::1]:39514 Accepted
+[Sun May  5 05:38:15 2024] [::1]:39514 [200]: POST /receiver.php
+[Sun May  5 05:38:15 2024] [::1]:39514 Closing
+[Sun May  5 05:38:17 2024] [::1]:39526 Accepted
+[Sun May  5 05:38:17 2024] [::1]:39526 [200]: POST /receiver.php
+[Sun May  5 05:38:17 2024] [::1]:39526 Closing
+[Sun May  5 05:38:19 2024] [::1]:39536 Accepted
+[Sun May  5 05:38:19 2024] [::1]:39536 [200]: POST /receiver.php
+[Sun May  5 05:38:19 2024] [::1]:39536 Closing
+[Sun May  5 05:38:21 2024] [::1]:39538 Accepted
+[Sun May  5 05:38:21 2024] [::1]:39538 [200]: POST /receiver.php
+[Sun May  5 05:38:21 2024] [::1]:39538 Closing
+[Sun May  5 05:38:23 2024] [::1]:41740 Accepted
+[Sun May  5 05:38:23 2024] [::1]:41740 [200]: POST /receiver.php
+[Sun May  5 05:38:23 2024] [::1]:41740 Closing
+[Sun May  5 05:38:25 2024] [::1]:41742 Accepted
+[Sun May  5 05:38:25 2024] [::1]:41742 [200]: POST /receiver.php
+[Sun May  5 05:38:25 2024] [::1]:41742 Closing
+[Sun May  5 05:38:27 2024] [::1]:41754 Accepted
+[Sun May  5 05:38:27 2024] [::1]:41754 [200]: POST /receiver.php
+[Sun May  5 05:38:27 2024] [::1]:41754 Closing
+[Sun May  5 05:38:29 2024] [::1]:41762 Accepted
+[Sun May  5 05:38:29 2024] [::1]:41762 [200]: POST /receiver.php
+[Sun May  5 05:38:29 2024] [::1]:41762 Closing
+[Sun May  5 05:38:31 2024] [::1]:41774 Accepted
+[Sun May  5 05:38:31 2024] [::1]:41774 [200]: POST /receiver.php
+[Sun May  5 05:38:31 2024] [::1]:41774 Closing
+[Sun May  5 05:38:33 2024] [::1]:58498 Accepted
+[Sun May  5 05:38:33 2024] [::1]:58498 [200]: POST /receiver.php
+[Sun May  5 05:38:33 2024] [::1]:58498 Closing
+[Sun May  5 05:38:35 2024] [::1]:58506 Accepted
+[Sun May  5 05:38:35 2024] [::1]:58506 [200]: POST /receiver.php
+[Sun May  5 05:38:35 2024] [::1]:58506 Closing
+[Sun May  5 05:38:37 2024] [::1]:58510 Accepted
+[Sun May  5 05:38:37 2024] [::1]:58510 [200]: POST /receiver.php
+[Sun May  5 05:38:37 2024] [::1]:58510 Closing
+[Sun May  5 05:38:39 2024] [::1]:58524 Accepted
+[Sun May  5 05:38:39 2024] [::1]:58524 [200]: POST /receiver.php
+[Sun May  5 05:38:39 2024] [::1]:58524 Closing
